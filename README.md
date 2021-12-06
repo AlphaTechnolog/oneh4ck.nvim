@@ -1,6 +1,6 @@
 # Oneh4ck
 
-Oneh4ck is a oneh4ck based theme with a blue h4cker palette
+Oneh4ck is a [onedarker](https://github.com/AlphaTechnolog/onedarker) based theme with a blue h4cker palette
 
 ## External plugins support
 
