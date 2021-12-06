@@ -2,6 +2,8 @@
 
 Oneh4ck is a [onedarker](https://github.com/AlphaTechnolog/onedarker) based theme with a blue h4cker palette
 
+![oneh4ck](./screenshots/oneh4ck_2.png)
+
 ## External plugins support
 
 This colorscheme has support for this plugins:
@@ -86,3 +88,7 @@ You can active it with lua like this:
 require'oneh4ck.evil_lualine'
 ```
 
+## Screenshots
+
+![oneh4ck](./screenshots/oneh4ck.png)
+![oneh4ck_2](./screenshots/oneh4ck_2.png)
